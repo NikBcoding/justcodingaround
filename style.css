@@ -1,0 +1,29 @@
+h1{
+    background-color: yellow;
+    color: aqua ;
+}
+
+#count{
+    display: block;
+    font-size: 5rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5%;
+}
+
+
+input{
+    color: blue;
+    background-color: azure;
+    border-color: greenyellow;
+}
+
+h2{
+    display: inline-flex;
+    margin-right: 40px;
+    font-size: 4rem;
+}
+
+#rollBtn{
+    margin-left: 62px;
+}
